@@ -1,0 +1,11 @@
+.my-box {
+ background-color: lightblue;
+  height: 50px;
+  text-align: center;
+  padding: 20px;
+  border-top:  3px rgb(211, 187, 184);
+}
+body {
+  margin: 0;
+  background-color: aquamarine;
+}
